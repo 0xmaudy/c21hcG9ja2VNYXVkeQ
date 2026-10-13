@@ -12,185 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Maudy =====
-[1]Maudy       |10:06:34 | 12-10-2026| login OK @maudyfarasya | score=950 rank=6407
-[1]Maudy       |10:06:34 | 12-10-2026| serverTime=2026-10-12T10:06:34.000Z local=2026-10-12T10:06:34.172Z
+[1]Maudy       |09:59:34 | 13-10-2026| login OK @maudyfarasya | score=1080 rank=5754
+[1]Maudy       |09:59:34 | 13-10-2026| serverTime=2026-10-13T09:59:34.000Z local=2026-10-13T09:59:34.307Z
 --> [1]Maudy menjalankan: Claim Daily
-[1]Maudy       |10:06:35 | 12-10-2026| daily: OK +10 poin score=960
---> [1]Maudy menjalankan: Auto All Tasks (8 pending)
-[1]Maudy       |10:06:37 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586109083656294
-[1]Maudy       |10:06:37 | 12-10-2026| delay 10s...
-[1]Maudy       |10:06:50 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586298213066554
-[1]Maudy       |10:06:50 | 12-10-2026| delay 10s...
-[1]Maudy       |10:07:03 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586364316286675
-[1]Maudy       |10:07:03 | 12-10-2026| delay 10s...
-[1]Maudy       |10:07:15 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Maudy       |10:07:15 | 12-10-2026| delay 10s...
-[1]Maudy       |10:07:28 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586212728542959
-[1]Maudy       |10:07:28 | 12-10-2026| delay 10s...
-[1]Maudy       |10:07:41 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586212787676772
-[1]Maudy       |10:07:41 | 12-10-2026| delay 10s...
-[1]Maudy       |10:07:54 | 12-10-2026| [7/8] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109586226249957255
-[1]Maudy       |10:07:54 | 12-10-2026| delay 10s...
-[1]Maudy       |10:08:06 | 12-10-2026| [8/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Maudy       |10:08:06 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Maudy       |10:08:08 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/maudyfarasya/status/2109586559075633293
+[1]Maudy       |09:59:36 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Maudy menjalankan: Auto All Tasks (5 pending)
+[1]Maudy       |09:59:38 | 13-10-2026| [1/5] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109946746277406275
+[1]Maudy       |09:59:38 | 13-10-2026| delay 10s...
+[1]Maudy       |09:59:50 | 13-10-2026| [2/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109946649536095870
+[1]Maudy       |09:59:50 | 13-10-2026| delay 10s...
+[1]Maudy       |10:00:02 | 13-10-2026| [3/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109946646901676346
+[1]Maudy       |10:00:02 | 13-10-2026| delay 10s...
+[1]Maudy       |10:00:14 | 13-10-2026| [4/5] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/maudyfarasya/status/2109946711222562805
+[1]Maudy       |10:00:14 | 13-10-2026| delay 10s...
+[1]Maudy       |10:00:27 | 13-10-2026| [5/5] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Maudy       |10:00:27 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Maudy       |10:00:29 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/maudyfarasya/status/2109947103475940997
 --> [1]Maudy menjalankan: Watch Anime
-[1]Maudy       |10:08:09 | 12-10-2026| watch: semua video sudah completed
+[1]Maudy       |10:00:30 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Maudy       |10:00:30 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Maudy       |10:00:32 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |10:00:37 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Maudy       |10:00:39 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |10:00:44 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Maudy       |10:00:47 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Maudy menjalankan: Read Article
-[1]Maudy       |10:08:11 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Maudy       |10:08:11 | 12-10-2026| mint eligibility: {"userId":"1780668188558311424","youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef58628e7","submittedAt":1791677807,"reviewedAt":17
-[1]Maudy       |10:08:11 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Maudy       |10:00:49 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Maudy       |10:00:49 | 13-10-2026| mint eligibility: {"userId":"1780668188558311424","youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef58628e7","submittedAt":1791677807,"reviewedAt":17
+[1]Maudy       |10:00:49 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Maudy menjalankan: Quiz Anime
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Maudy       |10:08:12 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Maudy       |10:00:50 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Maudy menjalankan: Music Missions (realtime, bisa lama!)
-[1]Maudy       |10:08:16 | 12-10-2026| music memutar "桃色の頃" (213s)...
-[1]Maudy       |10:08:27 | 12-10-2026| music "桃色の頃": 4% (9/213s)
-[1]Maudy       |10:08:39 | 12-10-2026| music "桃色の頃": 9% (19.242/213s)
-[1]Maudy       |10:08:51 | 12-10-2026| music "桃色の頃": 13% (29.493900000000004/213s)
-[1]Maudy       |10:09:03 | 12-10-2026| music "桃色の頃": 19% (40.716/213s)
-[1]Maudy       |10:09:14 | 12-10-2026| music "桃色の頃": 23% (50.9949/213s)
-[1]Maudy       |10:09:25 | 12-10-2026| music "桃色の頃": 28% (61.2936/213s)
-[1]Maudy       |10:09:37 | 12-10-2026| music "桃色の頃": 33% (71.37089999999999/213s)
-[1]Maudy       |10:09:48 | 12-10-2026| music "桃色の頃": 38% (81.4113/213s)
-[1]Maudy       |10:09:59 | 12-10-2026| music "桃色の頃": 42% (91.5165/213s)
-[1]Maudy       |10:10:11 | 12-10-2026| music "桃色の頃": 47% (101.6973/213s)
-[1]Maudy       |10:10:22 | 12-10-2026| music "桃色の頃": 52% (112.0131/213s)
-[1]Maudy       |10:10:34 | 12-10-2026| music "桃色の頃": 57% (122.3847/213s)
-[1]Maudy       |10:10:45 | 12-10-2026| music "桃色の頃": 62% (133.2693/213s)
-[1]Maudy       |10:10:57 | 12-10-2026| music "桃色の頃": 67% (143.325/213s)
-[1]Maudy       |10:11:08 | 12-10-2026| music "桃色の頃": 72% (153.60569999999998/213s)
-[1]Maudy       |10:11:20 | 12-10-2026| music "桃色の頃": 76% (163.8747/213s)
-[1]Maudy       |10:11:31 | 12-10-2026| music "桃色の頃": 81% (174.25529999999998/213s)
-[1]Maudy       |10:11:32 | 12-10-2026| music "桃色の頃": selesai 174.25529999999998s
-[1]Maudy       |10:11:35 | 12-10-2026| music memutar "記憶の名前" (224s)...
-[1]Maudy       |10:11:46 | 12-10-2026| music "記憶の名前": 4% (9.0045/224s)
-[1]Maudy       |10:11:57 | 12-10-2026| music "記憶の名前": 8% (19.4328/224s)
-[1]Maudy       |10:12:09 | 12-10-2026| music "記憶の名前": 13% (29.4903/224s)
-[1]Maudy       |10:12:20 | 12-10-2026| music "記憶の名前": 17% (39.7017/224s)
-[1]Maudy       |10:12:32 | 12-10-2026| music "記憶の名前": 22% (49.7628/224s)
-[1]Maudy       |10:12:44 | 12-10-2026| music "記憶の名前": 27% (60.8283/224s)
-[1]Maudy       |10:12:56 | 12-10-2026| music "記憶の名前": 32% (71.865/224s)
-[1]Maudy       |10:13:08 | 12-10-2026| music "記憶の名前": 36% (82.56869999999999/224s)
-[1]Maudy       |10:13:19 | 12-10-2026| music "記憶の名前": 41% (92.9151/224s)
-[1]Maudy       |10:13:31 | 12-10-2026| music "記憶の名前": 46% (103.1481/224s)
-[1]Maudy       |10:13:42 | 12-10-2026| music "記憶の名前": 50% (113.4279/224s)
-[1]Maudy       |10:13:54 | 12-10-2026| music "記憶の名前": 55% (123.5034/224s)
-[1]Maudy       |10:14:05 | 12-10-2026| music "記憶の名前": 59% (134.3781/224s)
-[1]Maudy       |10:14:17 | 12-10-2026| music "記憶の名前": 64% (144.8424/224s)
-[1]Maudy       |10:14:29 | 12-10-2026| music "記憶の名前": 69% (155.1789/224s)
-[1]Maudy       |10:14:41 | 12-10-2026| music "記憶の名前": 74% (166.3722/224s)
-[1]Maudy       |10:14:52 | 12-10-2026| music "記憶の名前": 78% (176.5008/224s)
-[1]Maudy       |10:15:04 | 12-10-2026| music "記憶の名前": 83% (186.7428/224s)
-[1]Maudy       |10:15:04 | 12-10-2026| music "記憶の名前": selesai 186.7428s
-[1]Maudy       |10:15:07 | 12-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Maudy       |10:15:19 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Maudy       |10:15:30 | 12-10-2026| music "Smart Pocket": 8% (19.673099999999998/232s)
-[1]Maudy       |10:15:42 | 12-10-2026| music "Smart Pocket": 12% (29.9016/232s)
-[1]Maudy       |10:15:53 | 12-10-2026| music "Smart Pocket": 17% (40.2669/232s)
-[1]Maudy       |10:16:04 | 12-10-2026| music "Smart Pocket": 21% (50.4108/232s)
-[1]Maudy       |10:16:16 | 12-10-2026| music "Smart Pocket": 26% (60.748200000000004/232s)
-[1]Maudy       |10:16:27 | 12-10-2026| music "Smart Pocket": 30% (70.97760000000001/232s)
-[1]Maudy       |10:16:39 | 12-10-2026| music "Smart Pocket": 35% (81.39240000000001/232s)
-[1]Maudy       |10:16:51 | 12-10-2026| music "Smart Pocket": 39% (92.27520000000001/232s)
-[1]Maudy       |10:17:02 | 12-10-2026| music "Smart Pocket": 44% (102.43980000000002/232s)
-[1]Maudy       |10:17:14 | 12-10-2026| music "Smart Pocket": 48% (112.82850000000002/232s)
-[1]Maudy       |10:17:25 | 12-10-2026| music "Smart Pocket": 53% (123.30540000000002/232s)
-[1]Maudy       |10:17:37 | 12-10-2026| music "Smart Pocket": 57% (133.63830000000002/232s)
-[1]Maudy       |10:17:49 | 12-10-2026| music "Smart Pocket": 62% (144.3402/232s)
-[1]Maudy       |10:18:00 | 12-10-2026| music "Smart Pocket": 66% (154.94760000000002/232s)
-[1]Maudy       |10:18:12 | 12-10-2026| music "Smart Pocket": 71% (164.97360000000003/232s)
-[1]Maudy       |10:18:23 | 12-10-2026| music "Smart Pocket": 75% (175.26330000000004/232s)
-[1]Maudy       |10:18:34 | 12-10-2026| music "Smart Pocket": 79% (185.36130000000006/232s)
-[1]Maudy       |10:18:46 | 12-10-2026| music "Smart Pocket": 84% (195.77250000000006/232s)
-[1]Maudy       |10:18:46 | 12-10-2026| music "Smart Pocket": selesai 195.77250000000006s
-[1]Maudy       |10:18:49 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Maudy       |10:19:00 | 12-10-2026| music "神様みたいに": 3% (9/254s)
-[1]Maudy       |10:19:12 | 12-10-2026| music "神様みたいに": 7% (19.5957/254s)
-[1]Maudy       |10:19:33 | 12-10-2026| music "神様みたいに": 11% (29.806200000000004/254s)
-[1]Maudy       |10:19:44 | 12-10-2026| music "神様みたいに": 19% (48.979800000000004/254s)
-[1]Maudy       |10:19:56 | 12-10-2026| music "神様みたいに": 23% (59.26500000000001/254s)
-[1]Maudy       |10:20:08 | 12-10-2026| music "神様みたいに": 27% (69.6744/254s)
-[1]Maudy       |10:20:19 | 12-10-2026| music "神様みたいに": 31% (79.9965/254s)
-[1]Maudy       |10:20:30 | 12-10-2026| music "神様みたいに": 35% (90.1089/254s)
-[1]Maudy       |10:20:42 | 12-10-2026| music "神様みたいに": 39% (100.2042/254s)
-[1]Maudy       |10:20:53 | 12-10-2026| music "神様みたいに": 43% (111.0132/254s)
-[1]Maudy       |10:21:05 | 12-10-2026| music "神様みたいに": 47% (121.0212/254s)
-[1]Maudy       |10:21:16 | 12-10-2026| music "神様みたいに": 51% (131.355/254s)
-[1]Maudy       |10:21:27 | 12-10-2026| music "神様みたいに": 55% (141.4863/254s)
-[1]Maudy       |10:21:39 | 12-10-2026| music "神様みたいに": 59% (151.8885/254s)
-[1]Maudy       |10:21:50 | 12-10-2026| music "神様みたいに": 63% (162.2124/254s)
-[1]Maudy       |10:22:01 | 12-10-2026| music "神様みたいに": 67% (172.2447/254s)
-[1]Maudy       |10:22:13 | 12-10-2026| music "神様みたいに": 71% (182.4588/254s)
-[1]Maudy       |10:22:24 | 12-10-2026| music "神様みたいに": 75% (192.4965/254s)
-[1]Maudy       |10:22:36 | 12-10-2026| music "神様みたいに": 79% (202.8816/254s)
-[1]Maudy       |10:22:47 | 12-10-2026| music "神様みたいに": 84% (213.4521/254s)
-[1]Maudy       |10:22:47 | 12-10-2026| music "神様みたいに": selesai 213.4521s
-[1]Maudy       |10:22:50 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Maudy       |10:23:01 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Maudy       |10:23:13 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.0737/269s)
-[1]Maudy       |10:23:24 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.2023/269s)
-[1]Maudy       |10:23:36 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.7665/269s)
-[1]Maudy       |10:23:47 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.8114/269s)
-[1]Maudy       |10:23:58 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.8725/269s)
-[1]Maudy       |10:24:09 | 12-10-2026| music "せーので、飛ぼう！": 26% (69.96600000000001/269s)
-[1]Maudy       |10:24:21 | 12-10-2026| music "せーので、飛ぼう！": 29% (80.01360000000001/269s)
-[1]Maudy       |10:24:32 | 12-10-2026| music "せーので、飛ぼう！": 33% (90.37620000000001/269s)
-[1]Maudy       |10:24:43 | 12-10-2026| music "せーので、飛ぼう！": 37% (100.66770000000001/269s)
-[1]Maudy       |10:24:54 | 12-10-2026| music "せーので、飛ぼう！": 41% (110.76660000000001/269s)
-[1]Maudy       |10:25:06 | 12-10-2026| music "せーので、飛ぼう！": 44% (120.78900000000002/269s)
-[1]Maudy       |10:25:17 | 12-10-2026| music "せーので、飛ぼう！": 48% (130.83030000000002/269s)
-[1]Maudy       |10:25:28 | 12-10-2026| music "せーので、飛ぼう！": 52% (140.84010000000004/269s)
-[1]Maudy       |10:25:40 | 12-10-2026| music "せーので、飛ぼう！": 56% (151.01820000000004/269s)
-[1]Maudy       |10:25:51 | 12-10-2026| music "せーので、飛ぼう！": 59% (161.39880000000005/269s)
-[1]Maudy       |10:26:02 | 12-10-2026| music "せーので、飛ぼう！": 63% (171.47880000000006/269s)
-[1]Maudy       |10:26:13 | 12-10-2026| music "せーので、飛ぼう！": 67% (181.50390000000007/269s)
-[1]Maudy       |10:26:25 | 12-10-2026| music "せーので、飛ぼう！": 71% (191.57850000000008/269s)
-[1]Maudy       |10:26:36 | 12-10-2026| music "せーので、飛ぼう！": 75% (202.29930000000007/269s)
-[1]Maudy       |10:26:47 | 12-10-2026| music "せーので、飛ぼう！": 78% (212.32170000000008/269s)
-[1]Maudy       |10:26:58 | 12-10-2026| music "せーので、飛ぼう！": 82% (222.36030000000008/269s)
-[1]Maudy       |10:26:59 | 12-10-2026| music "せーので、飛ぼう！": selesai 222.36030000000008s
-[1]Maudy       |10:27:01 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Maudy       |10:27:13 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
-[1]Maudy       |10:27:24 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.220399999999998/276s)
-[1]Maudy       |10:27:36 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.3085/276s)
-[1]Maudy       |10:27:47 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.8862/276s)
-[1]Maudy       |10:27:58 | 12-10-2026| music "ON CHAIN NEXUS": 18% (49.9095/276s)
-[1]Maudy       |10:28:10 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.164100000000005/276s)
-[1]Maudy       |10:28:21 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.38090000000001/276s)
-[1]Maudy       |10:28:33 | 12-10-2026| music "ON CHAIN NEXUS": 29% (81.09450000000001/276s)
-[1]Maudy       |10:28:45 | 12-10-2026| music "ON CHAIN NEXUS": 33% (91.41390000000001/276s)
-[1]Maudy       |10:28:56 | 12-10-2026| music "ON CHAIN NEXUS": 36% (102.07350000000001/276s)
-[1]Maudy       |10:29:08 | 12-10-2026| music "ON CHAIN NEXUS": 40% (112.36410000000001/276s)
-[1]Maudy       |10:29:20 | 12-10-2026| music "ON CHAIN NEXUS": 44% (123.12360000000001/276s)
-[1]Maudy       |10:29:31 | 12-10-2026| music "ON CHAIN NEXUS": 48% (133.4061/276s)
-[1]Maudy       |10:29:42 | 12-10-2026| music "ON CHAIN NEXUS": 52% (143.62560000000002/276s)
-[1]Maudy       |10:29:54 | 12-10-2026| music "ON CHAIN NEXUS": 55% (153.85860000000002/276s)
-[1]Maudy       |10:30:05 | 12-10-2026| music "ON CHAIN NEXUS": 59% (164.19960000000003/276s)
-[1]Maudy       |10:30:16 | 12-10-2026| music "ON CHAIN NEXUS": 63% (174.29580000000004/276s)
-[1]Maudy       |10:30:28 | 12-10-2026| music "ON CHAIN NEXUS": 66% (184.45680000000004/276s)
-[1]Maudy       |10:30:39 | 12-10-2026| music "ON CHAIN NEXUS": 70% (194.75370000000004/276s)
-[1]Maudy       |10:30:50 | 12-10-2026| music "ON CHAIN NEXUS": 74% (204.84990000000005/276s)
-[1]Maudy       |10:31:02 | 12-10-2026| music "ON CHAIN NEXUS": 77% (215.04060000000004/276s)
-[1]Maudy       |10:31:13 | 12-10-2026| music "ON CHAIN NEXUS": 81% (225.71100000000004/276s)
-[1]Maudy       |10:31:14 | 12-10-2026| music "ON CHAIN NEXUS": selesai 225.71100000000004s
-[1]Maudy       |10:31:15 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Maudy       |10:31:17 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Maudy       |10:31:21 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Maudy       |10:31:25 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Maudy       |10:00:52 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Maudy       |10:00:53 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |10:00:53 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |10:00:53 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Claim Missions
-[1]Maudy       |10:31:29 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Maudy       |10:31:29 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Maudy       |10:31:29 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Maudy       |10:00:53 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |10:00:53 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |10:00:53 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Check Eligibility
 
 --- eligibility [1]Maudy ---
-  @maudyfarasya | score=950 rank=6407
-  tasks    [##################--] 72/80
+  @maudyfarasya | score=1080 rank=5754
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -201,251 +72,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Maudy menjalankan: Read Manga
-[1]Maudy       |10:31:33 | 12-10-2026| manga: 13/13 chapter belum completed
-[1]Maudy       |10:31:33 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Maudy       |10:31:39 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Maudy       |10:31:44 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Maudy       |10:31:49 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Maudy       |10:31:54 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
-[1]Maudy       |10:31:59 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 19s
-[1]Maudy       |10:32:03 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 24s
-[1]Maudy       |10:32:09 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 29s
-[1]Maudy       |10:32:14 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 34s
-[1]Maudy       |10:32:18 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 39s
-[1]Maudy       |10:32:23 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 44s
-[1]Maudy       |10:32:28 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 49s
-[1]Maudy       |10:32:34 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 54s
-[1]Maudy       |10:32:39 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 59s
-[1]Maudy       |10:32:44 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 64s
-[1]Maudy       |10:32:49 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 70s
-[1]Maudy       |10:32:54 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 74s
-[1]Maudy       |10:32:59 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 79s
-[1]Maudy       |10:33:04 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 84s
-[1]Maudy       |10:33:08 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 89s
-[1]Maudy       |10:33:13 | 12-10-2026| manga ch1 (1): COMPLETED
-[1]Maudy       |10:33:16 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Maudy       |10:33:22 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Maudy       |10:33:27 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Maudy       |10:33:31 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Maudy       |10:33:36 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Maudy       |10:33:41 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
-[1]Maudy       |10:33:45 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Maudy       |10:33:50 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
-[1]Maudy       |10:33:55 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
-[1]Maudy       |10:33:59 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Maudy       |10:34:04 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
-[1]Maudy       |10:34:09 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
-[1]Maudy       |10:34:13 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
-[1]Maudy       |10:34:18 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
-[1]Maudy       |10:34:23 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 61s
-[1]Maudy       |10:34:27 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
-[1]Maudy       |10:34:32 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 70s
-[1]Maudy       |10:34:37 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 75s
-[1]Maudy       |10:34:41 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 79s
-[1]Maudy       |10:34:46 | 12-10-2026| manga ch2 (450001): COMPLETED
-[1]Maudy       |10:34:49 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Maudy       |10:34:55 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Maudy       |10:35:00 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
-[1]Maudy       |10:35:04 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
-[1]Maudy       |10:35:09 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Maudy       |10:35:14 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
-[1]Maudy       |10:35:18 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 24s
-[1]Maudy       |10:35:23 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
-[1]Maudy       |10:35:28 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 33s
-[1]Maudy       |10:35:33 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 38s
-[1]Maudy       |10:35:38 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 43s
-[1]Maudy       |10:35:43 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 47s
-[1]Maudy       |10:35:48 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 53s
-[1]Maudy       |10:35:53 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 58s
-[1]Maudy       |10:35:57 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 62s
-[1]Maudy       |10:36:02 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 67s
-[1]Maudy       |10:36:07 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 72s
-[1]Maudy       |10:36:11 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 77s
-[1]Maudy       |10:36:16 | 12-10-2026| manga ch3 (2160001): COMPLETED
-[1]Maudy       |10:36:19 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Maudy       |10:36:26 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Maudy       |10:36:31 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 6s
-[1]Maudy       |10:36:35 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 11s
-[1]Maudy       |10:36:40 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
-[1]Maudy       |10:36:45 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
-[1]Maudy       |10:36:49 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 25s
-[1]Maudy       |10:36:54 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
-[1]Maudy       |10:36:59 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 34s
-[1]Maudy       |10:37:04 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 39s
-[1]Maudy       |10:37:09 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 44s
-[1]Maudy       |10:37:14 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 49s
-[1]Maudy       |10:37:18 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 54s
-[1]Maudy       |10:37:23 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 58s
-[1]Maudy       |10:37:28 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 63s
-[1]Maudy       |10:37:33 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 68s
-[1]Maudy       |10:37:38 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 73s
-[1]Maudy       |10:37:43 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 78s
-[1]Maudy       |10:37:47 | 12-10-2026| manga ch4 (2400001): COMPLETED
-[1]Maudy       |10:37:50 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Maudy       |10:37:56 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Maudy       |10:38:01 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Maudy       |10:38:06 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Maudy       |10:38:10 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Maudy       |10:38:15 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
-[1]Maudy       |10:38:20 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
-[1]Maudy       |10:38:24 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
-[1]Maudy       |10:38:29 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
-[1]Maudy       |10:38:34 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 37s
-[1]Maudy       |10:38:38 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 42s
-[1]Maudy       |10:38:43 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 47s
-[1]Maudy       |10:38:48 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 52s
-[1]Maudy       |10:38:53 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 56s
-[1]Maudy       |10:38:58 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 61s
-[1]Maudy       |10:39:03 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 66s
-[1]Maudy       |10:39:10 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 71s
-[1]Maudy       |10:39:15 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 79s
-[1]Maudy       |10:39:20 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 83s
-[1]Maudy       |10:39:24 | 12-10-2026| manga ch5 (2490001): COMPLETED
-[1]Maudy       |10:39:27 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Maudy       |10:39:33 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Maudy       |10:39:38 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
-[1]Maudy       |10:39:43 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
-[1]Maudy       |10:39:47 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
-[1]Maudy       |10:39:52 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
-[1]Maudy       |10:39:57 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 24s
-[1]Maudy       |10:40:02 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 28s
-[1]Maudy       |10:40:06 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 33s
-[1]Maudy       |10:40:12 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 38s
-[1]Maudy       |10:40:16 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 43s
-[1]Maudy       |10:40:21 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 48s
-[1]Maudy       |10:40:27 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 53s
-[1]Maudy       |10:40:32 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 59s
-[1]Maudy       |10:40:38 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 64s
-[1]Maudy       |10:40:43 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 70s
-[1]Maudy       |10:40:48 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 74s
-[1]Maudy       |10:40:52 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 79s
-[1]Maudy       |10:40:57 | 12-10-2026| manga ch6 (2610001): COMPLETED
-[1]Maudy       |10:41:00 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Maudy       |10:41:06 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Maudy       |10:41:11 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
-[1]Maudy       |10:41:16 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
-[1]Maudy       |10:41:21 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
-[1]Maudy       |10:41:25 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Maudy       |10:41:30 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 24s
-[1]Maudy       |10:41:35 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
-[1]Maudy       |10:41:40 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
-[1]Maudy       |10:41:45 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 38s
-[1]Maudy       |10:41:49 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 43s
-[1]Maudy       |10:41:54 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
-[1]Maudy       |10:41:59 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 53s
-[1]Maudy       |10:42:04 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 57s
-[1]Maudy       |10:42:09 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 62s
-[1]Maudy       |10:42:14 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 67s
-[1]Maudy       |10:42:18 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 72s
-[1]Maudy       |10:42:23 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 77s
-[1]Maudy       |10:42:28 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 82s
-[1]Maudy       |10:42:34 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 86s
-[1]Maudy       |10:42:39 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 92s
-[1]Maudy       |10:42:44 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 97s
-[1]Maudy       |10:42:48 | 12-10-2026| manga ch1 (180003): COMPLETED
-[1]Maudy       |10:42:51 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Maudy       |10:42:58 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Maudy       |10:43:03 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Maudy       |10:43:09 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
-[1]Maudy       |10:43:14 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 16s
-[1]Maudy       |10:43:19 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 21s
-[1]Maudy       |10:43:24 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 26s
-[1]Maudy       |10:43:29 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 31s
-[1]Maudy       |10:43:34 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 36s
-[1]Maudy       |10:43:39 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 41s
-[1]Maudy       |10:43:44 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 46s
-[1]Maudy       |10:43:50 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 51s
-[1]Maudy       |10:43:55 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 56s
-[1]Maudy       |10:43:59 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 61s
-[1]Maudy       |10:44:04 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 66s
-[1]Maudy       |10:44:09 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 71s
-[1]Maudy       |10:44:14 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 76s
-[1]Maudy       |10:44:18 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 80s
-[1]Maudy       |10:44:23 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 85s
-[1]Maudy       |10:44:28 | 12-10-2026| manga ch2 (990005): COMPLETED
-[1]Maudy       |10:44:31 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Maudy       |10:44:37 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Maudy       |10:44:42 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Maudy       |10:44:47 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
-[1]Maudy       |10:44:51 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
-[1]Maudy       |10:44:56 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
-[1]Maudy       |10:45:01 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
-[1]Maudy       |10:45:06 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 28s
-[1]Maudy       |10:45:10 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 33s
-[1]Maudy       |10:45:15 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 38s
-[1]Maudy       |10:45:20 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 43s
-[1]Maudy       |10:45:24 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 47s
-[1]Maudy       |10:45:29 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 52s
-[1]Maudy       |10:45:34 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 57s
-[1]Maudy       |10:45:39 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 62s
-[1]Maudy       |10:45:45 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 66s
-[1]Maudy       |10:45:49 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 72s
-[1]Maudy       |10:45:54 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 77s
-[1]Maudy       |10:46:00 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 82s
-[1]Maudy       |10:46:05 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 88s
-[1]Maudy       |10:46:09 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 92s
-[1]Maudy       |10:46:14 | 12-10-2026| manga ch3 (1980001): COMPLETED
-[1]Maudy       |10:46:17 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Maudy       |10:46:23 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Maudy       |10:46:28 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Maudy       |10:46:33 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 10s
-[1]Maudy       |10:46:37 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Maudy       |10:46:43 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 19s
-[1]Maudy       |10:46:47 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 24s
-[1]Maudy       |10:46:52 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
-[1]Maudy       |10:46:57 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 34s
-[1]Maudy       |10:47:02 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 39s
-[1]Maudy       |10:47:06 | 12-10-2026| manga ch1 (2100001): COMPLETED
-[1]Maudy       |10:47:09 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Maudy       |10:47:15 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Maudy       |10:47:20 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Maudy       |10:47:25 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
-[1]Maudy       |10:47:30 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Maudy       |10:47:36 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
-[1]Maudy       |10:47:40 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 25s
-[1]Maudy       |10:47:45 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 30s
-[1]Maudy       |10:47:50 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
-[1]Maudy       |10:47:55 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 39s
-[1]Maudy       |10:47:59 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 44s
-[1]Maudy       |10:48:04 | 12-10-2026| manga ch1 (2070001): COMPLETED
-[1]Maudy       |10:48:07 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Maudy       |10:48:13 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Maudy       |10:48:18 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Maudy       |10:48:23 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 10s
-[1]Maudy       |10:48:28 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
-[1]Maudy       |10:48:32 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
-[1]Maudy       |10:48:37 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 24s
-[1]Maudy       |10:48:42 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
-[1]Maudy       |10:48:47 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 34s
-[1]Maudy       |10:48:53 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 39s
-[1]Maudy       |10:48:58 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 45s
-[1]Maudy       |10:49:03 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 50s
-[1]Maudy       |10:49:08 | 12-10-2026| manga ch2 (2520001): COMPLETED
-[1]Maudy       |10:49:11 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Maudy       |10:49:19 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Maudy       |10:49:25 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 7s
-[1]Maudy       |10:49:30 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 13s
-[1]Maudy       |10:49:38 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 18s
-[1]Maudy       |10:49:43 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 25s
-[1]Maudy       |10:49:47 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 30s
-[1]Maudy       |10:49:52 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 35s
-[1]Maudy       |10:49:57 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 40s
-[1]Maudy       |10:50:02 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 44s
-[1]Maudy       |10:50:06 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 49s
-[1]Maudy       |10:50:12 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 54s
-[1]Maudy       |10:50:17 | 12-10-2026| manga ch3 (2550001): COMPLETED
+[1]Maudy       |10:00:58 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Maudy menjalankan: Get Gift
-[1]Maudy       |10:50:20 | 12-10-2026| gift: 3/3 belum diterima
-[1]Maudy       |10:50:22 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Maudy       |10:50:27 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Maudy       |10:50:30 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Maudy       |10:00:58 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Maudy menjalankan: Setup Profile
-[1]Maudy       |10:50:33 | 12-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Maudy       |10:50:35 | 12-10-2026| profile: OK bio="https://x.com/maudyfarasya" fav=kagura awarded=true +10pt
+[1]Maudy       |10:00:59 | 13-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
+[1]Maudy       |10:00:59 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Maudy menjalankan: Bind Wallet
-[1]Maudy       |10:50:35 | 12-10-2026| wallet: derivasi dari privateKeySolana -> 6Z9QAxJeLSGMwZriziY3mJ5SJAqNUCjFVPdTMUtD2i45 (cek cocok dengan wallet kamu!)
-[1]Maudy       |10:50:36 | 12-10-2026| wallet: /api/wallet OK (solana)
-[1]Maudy       |10:50:37 | 12-10-2026| wallet: /api/sol-address OK
+[1]Maudy       |10:00:59 | 13-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
 
 == RINGKASAN ==
-- Maudy: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 6 trek ~1218.294s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Maudy: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
