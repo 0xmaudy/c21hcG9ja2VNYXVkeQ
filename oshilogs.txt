@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Maudy =====
-[1]Maudy       |08:27:31 | 17-10-2026| login OK @maudyfarasya | score=1340 rank=4844
-[1]Maudy       |08:27:31 | 17-10-2026| serverTime=2026-10-17T08:27:31.000Z local=2026-10-17T08:27:31.320Z
+[1]Maudy       |08:45:55 | 18-10-2026| login OK @maudyfarasya | score=1380 rank=4836
+[1]Maudy       |08:45:55 | 18-10-2026| serverTime=2026-10-18T08:45:55.000Z local=2026-10-18T08:45:55.453Z
 --> [1]Maudy menjalankan: Claim Daily
-[1]Maudy       |08:27:32 | 17-10-2026| daily: OK +10 poin score=1350
---> [1]Maudy menjalankan: Auto All Tasks (3 pending)
-[1]Maudy       |08:27:33 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/maudyfarasya/status/2111372990372411787
-[1]Maudy       |08:27:33 | 17-10-2026| delay 10s...
-[1]Maudy       |08:27:45 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/maudyfarasya/status/2111373206833912082
-[1]Maudy       |08:27:45 | 17-10-2026| delay 10s...
-[1]Maudy       |08:27:57 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/maudyfarasya/status/2111373234894337140
-[1]Maudy       |08:27:57 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Maudy       |08:27:58 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/maudyfarasya/status/2111373298094201169
+[1]Maudy       |08:45:56 | 18-10-2026| daily: OK +10 poin score=1390
+--> [1]Maudy menjalankan: Auto All Tasks (5 pending)
+[1]Maudy       |08:45:59 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/maudyfarasya/status/2111740057245774471
+[1]Maudy       |08:45:59 | 18-10-2026| delay 10s...
+[1]Maudy       |08:46:10 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/maudyfarasya/status/2111740309673728775
+[1]Maudy       |08:46:10 | 18-10-2026| delay 10s...
+[1]Maudy       |08:46:24 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/maudyfarasya/status/2111740337606625077
+[1]Maudy       |08:46:24 | 18-10-2026| delay 10s...
+[1]Maudy       |08:46:36 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Maudy       |08:46:36 | 18-10-2026| delay 10s...
+[1]Maudy       |08:46:48 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/maudyfarasya/status/2111740256237704476
+[1]Maudy       |08:46:48 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Maudy       |08:46:49 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/maudyfarasya/status/2111740200452006546
 --> [1]Maudy menjalankan: Watch Anime
-[1]Maudy       |08:27:59 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Maudy       |08:27:59 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Maudy       |08:28:01 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Maudy       |08:28:06 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Maudy       |08:28:08 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Maudy       |08:28:13 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Maudy       |08:28:14 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |08:46:50 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Maudy       |08:46:50 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Maudy       |08:46:52 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |08:46:57 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Maudy       |08:46:58 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |08:47:03 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Maudy       |08:47:05 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Maudy       |08:47:10 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Maudy       |08:47:11 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Maudy menjalankan: Read Article
-[1]Maudy       |08:28:15 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Maudy       |08:28:16 | 17-10-2026| mint eligibility: {"userId":"1780668188558311424","youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef58628e7","submittedAt":1791677807,"reviewedAt":17
-[1]Maudy       |08:28:16 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Maudy       |08:47:13 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Maudy       |08:47:13 | 18-10-2026| mint eligibility: {"userId":"1780668188558311424","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef5862
+[1]Maudy       |08:47:13 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Maudy menjalankan: Quiz Anime
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Maudy       |08:28:16 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Maudy       |08:47:14 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Maudy menjalankan: Music Missions (realtime, bisa lama!)
-[1]Maudy       |08:28:18 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Maudy       |08:28:18 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Maudy       |08:28:18 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Maudy       |08:28:18 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Maudy       |08:47:16 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Maudy       |08:47:16 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |08:47:16 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |08:47:16 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Claim Missions
-[1]Maudy       |08:28:19 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Maudy       |08:28:19 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Maudy       |08:28:19 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Maudy       |08:47:17 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |08:47:17 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |08:47:17 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Check Eligibility
 
 --- eligibility [1]Maudy ---
-  @maudyfarasya | score=1340 rank=4844
-  tasks    [###################-] 76/79
+  @maudyfarasya | score=1380 rank=4836
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Maudy menjalankan: Read Manga
-[1]Maudy       |08:28:22 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Maudy       |08:47:21 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Maudy menjalankan: Get Gift
-[1]Maudy       |08:28:23 | 17-10-2026| gift: 0/4 belum diterima
+[1]Maudy       |08:47:21 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Maudy menjalankan: Setup Profile
-[1]Maudy       |08:28:23 | 17-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
-[1]Maudy       |08:28:23 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Maudy       |08:47:22 | 18-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
+[1]Maudy       |08:47:22 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Maudy menjalankan: Bind Wallet
-[1]Maudy       |08:28:23 | 17-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
+[1]Maudy       |08:47:22 | 18-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
 
 == RINGKASAN ==
-- Maudy: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Maudy: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
