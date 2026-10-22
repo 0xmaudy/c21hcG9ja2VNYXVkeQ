@@ -12,112 +12,126 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Maudy =====
-[1]Maudy       |09:19:05 | 20-10-2026| login OK @maudyfarasya | score=1540 rank=4552
-[1]Maudy       |09:19:05 | 20-10-2026| serverTime=2026-10-20T09:19:05.000Z local=2026-10-20T09:19:05.262Z
+[1]Maudy       |06:54:36 | 22-10-2026| login OK @maudyfarasya | score=1610 rank=4482
+[1]Maudy       |06:54:36 | 22-10-2026| serverTime=2026-10-22T06:54:36.000Z local=2026-10-22T06:54:36.912Z
 --> [1]Maudy menjalankan: Claim Daily
-[1]Maudy       |09:19:06 | 20-10-2026| daily: OK +10 poin score=1550
---> [1]Maudy menjalankan: Auto All Tasks (6 pending)
-[1]Maudy       |09:19:08 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473274418092908
-[1]Maudy       |09:19:08 | 20-10-2026| delay 10s...
-[1]Maudy       |09:19:20 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473408767071673
-[1]Maudy       |09:19:20 | 20-10-2026| delay 10s...
-[1]Maudy       |09:19:31 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473352738038159
-[1]Maudy       |09:19:31 | 20-10-2026| delay 10s...
-[1]Maudy       |09:19:43 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473359275353378
-[1]Maudy       |09:19:43 | 20-10-2026| delay 10s...
-[1]Maudy       |09:19:55 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473321631169814
-[1]Maudy       |09:19:55 | 20-10-2026| delay 10s...
-[1]Maudy       |09:20:07 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/maudyfarasya/status/2112473663626084645
-[1]Maudy       |09:20:07 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Maudy       |09:20:09 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/maudyfarasya/status/2112473492280569368
+[1]Maudy       |06:54:38 | 22-10-2026| daily: OK +10 poin score=1620
+--> [1]Maudy menjalankan: Auto All Tasks (11 pending)
+[1]Maudy       |06:54:40 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161765412451705
+[1]Maudy       |06:54:40 | 22-10-2026| delay 10s...
+[1]Maudy       |06:54:53 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161790210102901
+[1]Maudy       |06:54:53 | 22-10-2026| delay 10s...
+[1]Maudy       |06:55:05 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161674822244803
+[1]Maudy       |06:55:05 | 22-10-2026| delay 10s...
+[1]Maudy       |06:55:17 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161717894907641
+[1]Maudy       |06:55:17 | 22-10-2026| delay 10s...
+[1]Maudy       |06:55:30 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161848187391603
+[1]Maudy       |06:55:30 | 22-10-2026| delay 10s...
+[1]Maudy       |06:55:42 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113161740785937256
+[1]Maudy       |06:55:42 | 22-10-2026| delay 10s...
+[1]Maudy       |06:55:54 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113162018608965311
+[1]Maudy       |06:55:54 | 22-10-2026| delay 10s...
+[1]Maudy       |06:56:06 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113162107277307043
+[1]Maudy       |06:56:06 | 22-10-2026| delay 10s...
+[1]Maudy       |06:56:19 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113162029051534210
+[1]Maudy       |06:56:19 | 22-10-2026| delay 10s...
+[1]Maudy       |06:56:31 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/maudyfarasya/status/2113162039515361491
+[1]Maudy       |06:56:31 | 22-10-2026| delay 10s...
+[1]Maudy       |06:56:44 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Maudy       |06:56:44 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Maudy       |06:56:45 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/maudyfarasya/status/2113162071461787356
 --> [1]Maudy menjalankan: Watch Anime
-[1]Maudy       |09:20:10 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Maudy       |09:20:10 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Maudy       |09:20:11 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Maudy       |09:20:17 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Maudy       |09:20:22 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Maudy       |09:20:24 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Maudy       |09:20:30 | 20-10-2026| watch oshi-rainbow-star: 5% (5.09/86.00s)
-[1]Maudy       |09:20:36 | 20-10-2026| watch oshi-rainbow-star: 12% (10.38/86.00s)
-[1]Maudy       |09:20:42 | 20-10-2026| watch oshi-rainbow-star: 18% (15.80/86.00s)
-[1]Maudy       |09:20:48 | 20-10-2026| watch oshi-rainbow-star: 24% (21.11/86.00s)
-[1]Maudy       |09:20:54 | 20-10-2026| watch oshi-rainbow-star: 30% (26.41/86.00s)
-[1]Maudy       |09:21:00 | 20-10-2026| watch oshi-rainbow-star: 36% (31.75/86.00s)
-[1]Maudy       |09:21:07 | 20-10-2026| watch oshi-rainbow-star: 43% (37.42/86.00s)
-[1]Maudy       |09:21:13 | 20-10-2026| watch oshi-rainbow-star: 50% (43.03/86.00s)
-[1]Maudy       |09:21:18 | 20-10-2026| watch oshi-rainbow-star: 56% (48.44/86.00s)
-[1]Maudy       |09:21:25 | 20-10-2026| watch oshi-rainbow-star: 62% (53.77/86.00s)
-[1]Maudy       |09:21:31 | 20-10-2026| watch oshi-rainbow-star: 69% (59.76/86.00s)
-[1]Maudy       |09:21:37 | 20-10-2026| watch oshi-rainbow-star: 75% (65.20/86.00s)
-[1]Maudy       |09:21:43 | 20-10-2026| watch oshi-rainbow-star: 81% (70.51/86.00s)
-[1]Maudy       |09:21:49 | 20-10-2026| watch oshi-rainbow-star: 88% (75.79/86.00s)
-[1]Maudy       |09:21:55 | 20-10-2026| watch oshi-rainbow-star: 94% (81.08/86.00s)
-[1]Maudy       |09:21:55 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (81.08/86.00s)
-[1]Maudy       |09:22:00 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Maudy       |09:22:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Maudy       |09:22:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.07/87.00s)
-[1]Maudy       |09:22:14 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.82/87.00s)
-[1]Maudy       |09:22:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (16.64/87.00s)
-[1]Maudy       |09:22:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.94/87.00s)
-[1]Maudy       |09:22:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.68/87.00s)
-[1]Maudy       |09:22:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.28/87.00s)
-[1]Maudy       |09:22:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.61/87.00s)
-[1]Maudy       |09:22:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (43.96/87.00s)
-[1]Maudy       |09:22:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 56% (49.29/87.00s)
-[1]Maudy       |09:23:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.60/87.00s)
-[1]Maudy       |09:23:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.96/87.00s)
-[1]Maudy       |09:23:14 | 20-10-2026| watch oshi-rainbow-lighthouse: 75% (65.46/87.00s)
-[1]Maudy       |09:23:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 81% (70.79/87.00s)
-[1]Maudy       |09:23:27 | 20-10-2026| watch oshi-rainbow-lighthouse: 87% (76.15/87.00s)
-[1]Maudy       |09:23:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 94% (82.24/87.00s)
-[1]Maudy       |09:23:33 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.24/87.00s)
-[1]Maudy       |09:23:38 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Maudy       |09:23:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Maudy       |09:23:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.06/181.00s)
-[1]Maudy       |09:23:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.37/181.00s)
-[1]Maudy       |09:23:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.70/181.00s)
-[1]Maudy       |09:24:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.18/181.00s)
-[1]Maudy       |09:24:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.40/181.00s)
-[1]Maudy       |09:24:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (32.94/181.00s)
-[1]Maudy       |09:24:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.25/181.00s)
-[1]Maudy       |09:24:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (43.61/181.00s)
-[1]Maudy       |09:24:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (48.94/181.00s)
-[1]Maudy       |09:24:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 29% (54.23/181.00s)
-[1]Maudy       |09:24:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 32% (59.58/181.00s)
-[1]Maudy       |09:24:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.89/181.00s)
-[1]Maudy       |09:24:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.44/181.00s)
-[1]Maudy       |09:25:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.45/181.00s)
-[1]Maudy       |09:25:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
-[1]Maudy       |09:25:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
+[1]Maudy       |06:56:46 | 22-10-2026| watch: 2 video belum completed: oshi-captains-hat,bakeru-ikesou-jan-mv
+[1]Maudy       |06:56:46 | 22-10-2026| watch [1/2] farming oshi-captains-hat...
+[1]Maudy       |06:56:48 | 22-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Maudy       |06:56:54 | 22-10-2026| watch oshi-captains-hat: 5% (5.25/92.00s)
+[1]Maudy       |06:57:00 | 22-10-2026| watch oshi-captains-hat: 11% (10.79/92.00s)
+[1]Maudy       |06:57:06 | 22-10-2026| watch oshi-captains-hat: 17% (16.27/92.00s)
+[1]Maudy       |06:57:13 | 22-10-2026| watch oshi-captains-hat: 23% (21.88/92.00s)
+[1]Maudy       |06:57:19 | 22-10-2026| watch oshi-captains-hat: 29% (27.51/92.00s)
+[1]Maudy       |06:57:25 | 22-10-2026| watch oshi-captains-hat: 35% (33.03/92.00s)
+[1]Maudy       |06:57:32 | 22-10-2026| watch oshi-captains-hat: 42% (38.99/92.00s)
+[1]Maudy       |06:57:38 | 22-10-2026| watch oshi-captains-hat: 48% (44.55/92.00s)
+[1]Maudy       |06:57:44 | 22-10-2026| watch oshi-captains-hat: 54% (50.32/92.00s)
+[1]Maudy       |06:57:50 | 22-10-2026| watch oshi-captains-hat: 60% (55.85/92.00s)
+[1]Maudy       |06:57:56 | 22-10-2026| watch oshi-captains-hat: 66% (61.35/92.00s)
+[1]Maudy       |06:58:02 | 22-10-2026| watch oshi-captains-hat: 72% (66.88/92.00s)
+[1]Maudy       |06:58:09 | 22-10-2026| watch oshi-captains-hat: 78% (72.37/92.00s)
+[1]Maudy       |06:58:15 | 22-10-2026| watch oshi-captains-hat: 84% (78.02/92.00s)
+[1]Maudy       |06:58:22 | 22-10-2026| watch oshi-captains-hat: 90% (83.57/92.00s)
+[1]Maudy       |06:58:22 | 22-10-2026| watch oshi-captains-hat: COMPLETED (83.57/92.00s)
+[1]Maudy       |06:58:27 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
+[1]Maudy       |06:58:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 82.1s diabaikan)
+[1]Maudy       |06:58:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:58:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:58:41 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:58:47 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:58:53 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:58:59 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:59:38 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:59:44 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:59:50 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |06:59:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.05/181.00s)
+[1]Maudy       |07:00:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.72/181.00s)
+[1]Maudy       |07:00:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 49% (90.40/181.00s)
+[1]Maudy       |07:00:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 53% (95.97/181.00s)
+[1]Maudy       |07:00:22 | 22-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.49/181.00s)
+[1]Maudy       |07:00:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.14/181.00s)
+[1]Maudy       |07:00:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.80/181.00s)
+[1]Maudy       |07:00:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.36/181.00s)
+[1]Maudy       |07:00:47 | 22-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.04/181.00s)
+[1]Maudy       |07:00:53 | 22-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.66/181.00s)
+[1]Maudy       |07:00:59 | 22-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.32/181.00s)
+[1]Maudy       |07:01:05 | 22-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.91/181.00s)
+[1]Maudy       |07:01:12 | 22-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.48/181.00s)
+[1]Maudy       |07:01:19 | 22-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.08/181.00s)
+[1]Maudy       |07:01:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.51/181.00s)
+[1]Maudy       |07:01:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: 91% (164.74/181.00s)
+[1]Maudy       |07:01:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.74/181.00s)
 --> [1]Maudy menjalankan: Read Article
-[1]Maudy       |09:25:16 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:34 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Maudy       |07:01:34 | 22-10-2026| mint eligibility: {"userId":"1780668188558311424","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef5862
+[1]Maudy       |07:01:40 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Maudy       |07:01:49 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Maudy menjalankan: Quiz Anime
-[1]Maudy       |09:25:17 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Maudy       |07:01:51 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Maudy menjalankan: Music Missions (realtime, bisa lama!)
-[1]Maudy       |09:25:17 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Maudy       |09:25:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:54 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Maudy       |07:01:54 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |07:01:54 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |07:01:54 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Claim Missions
-[1]Maudy       |09:25:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:55 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |07:01:55 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |07:01:55 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Check Eligibility
 
 --- eligibility [1]Maudy ---
-  @maudyfarasya | score=1540 rank=4552
-  tasks    [##################--] 73/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @maudyfarasya | score=1610 rank=4482
+  tasks    [#################---] 73/84
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Maudy menjalankan: Read Manga
-[1]Maudy       |09:25:18 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:59 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Maudy menjalankan: Get Gift
-[1]Maudy       |09:25:18 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:01:59 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Maudy menjalankan: Setup Profile
-[1]Maudy       |09:25:19 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:02:00 | 22-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
+[1]Maudy       |07:02:00 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Maudy menjalankan: Bind Wallet
-[1]Maudy       |09:25:19 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Maudy       |07:02:00 | 22-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
 
 == RINGKASAN ==
-- Maudy: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Maudy: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
