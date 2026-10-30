@@ -12,49 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Maudy =====
-[1]Maudy       |11:17:27 | 29-10-2026| login OK @maudyfarasya | score=2290 rank=3514
-[1]Maudy       |11:17:27 | 29-10-2026| serverTime=2026-10-29T11:17:27.000Z local=2026-10-29T11:17:27.274Z
+[1]Maudy       |11:10:12 | 30-10-2026| login OK @maudyfarasya | score=2380 rank=3375
+[1]Maudy       |11:10:12 | 30-10-2026| serverTime=2026-10-30T11:10:12.000Z local=2026-10-30T11:10:12.745Z
 --> [1]Maudy menjalankan: Claim Daily
-[1]Maudy       |11:17:28 | 29-10-2026| daily: OK +10 poin score=2300
---> [1]Maudy menjalankan: Auto All Tasks (8 pending)
-[1]Maudy       |11:17:31 | 29-10-2026| [1/8] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764432670256454
-[1]Maudy       |11:17:31 | 29-10-2026| delay 10s...
-[1]Maudy       |11:17:43 | 29-10-2026| [2/8] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764614404025182
-[1]Maudy       |11:17:43 | 29-10-2026| delay 10s...
-[1]Maudy       |11:17:55 | 29-10-2026| [3/8] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764513873834832
-[1]Maudy       |11:17:55 | 29-10-2026| delay 10s...
-[1]Maudy       |11:18:07 | 29-10-2026| [4/8] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764640097981303
-[1]Maudy       |11:18:07 | 29-10-2026| delay 10s...
-[1]Maudy       |11:18:19 | 29-10-2026| [5/8] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764849378008754
-[1]Maudy       |11:18:19 | 29-10-2026| delay 10s...
-[1]Maudy       |11:18:31 | 29-10-2026| [6/8] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764736284617309
-[1]Maudy       |11:18:31 | 29-10-2026| delay 10s...
-[1]Maudy       |11:18:43 | 29-10-2026| [7/8] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/maudyfarasya/status/2115764908524352600
-[1]Maudy       |11:18:43 | 29-10-2026| delay 10s...
-[1]Maudy       |11:18:55 | 29-10-2026| [8/8] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Maudy       |11:18:55 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Maudy       |11:18:57 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/maudyfarasya/status/2115765030814971984
+[1]Maudy       |11:10:14 | 30-10-2026| daily: OK +10 poin score=2390
+--> [1]Maudy menjalankan: Auto All Tasks (6 pending)
+[1]Maudy       |11:10:16 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/maudyfarasya/status/2116125007220743406
+[1]Maudy       |11:10:16 | 30-10-2026| delay 10s...
+[1]Maudy       |11:10:28 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/maudyfarasya/status/2116125040836292488
+[1]Maudy       |11:10:28 | 30-10-2026| delay 10s...
+[1]Maudy       |11:10:41 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/maudyfarasya/status/2116125083280209841
+[1]Maudy       |11:10:41 | 30-10-2026| delay 10s...
+[1]Maudy       |11:10:54 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/maudyfarasya/status/2116125260047897190
+[1]Maudy       |11:10:54 | 30-10-2026| delay 10s...
+[1]Maudy       |11:11:06 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/maudyfarasya/status/2116125150973260025
+[1]Maudy       |11:11:06 | 30-10-2026| delay 10s...
+[1]Maudy       |11:11:18 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Maudy       |11:11:18 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Maudy       |11:11:19 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/maudyfarasya/status/2116125494892803953
 --> [1]Maudy menjalankan: Watch Anime
-[1]Maudy       |11:18:58 | 29-10-2026| watch: semua video sudah completed
+[1]Maudy       |11:11:20 | 30-10-2026| watch: semua video sudah completed
 --> [1]Maudy menjalankan: Read Article
-[1]Maudy       |11:19:00 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Maudy       |11:19:01 | 29-10-2026| mint eligibility: {"userId":"1780668188558311424","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef5862
-[1]Maudy       |11:19:01 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Maudy       |11:11:22 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Maudy       |11:11:23 | 30-10-2026| mint eligibility: {"userId":"1780668188558311424","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@maudyfarasya","status":"submitted","revision":"f10d05be-b361-4fce-ae14-896ef5862
+[1]Maudy       |11:11:23 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Maudy menjalankan: Quiz Anime
 --> [1]Maudy menjalankan: Music Missions (realtime, bisa lama!)
-[1]Maudy       |11:19:04 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Maudy       |11:19:05 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Maudy       |11:19:05 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Maudy       |11:19:05 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Maudy       |11:11:25 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Maudy       |11:11:26 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |11:11:26 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |11:11:26 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Claim Missions
-[1]Maudy       |11:19:05 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Maudy       |11:19:05 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Maudy       |11:19:05 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Maudy       |11:11:27 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Maudy       |11:11:27 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Maudy       |11:11:27 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Maudy menjalankan: Check Eligibility
 
 --- eligibility [1]Maudy ---
-  @maudyfarasya | score=2290 rank=3514
-  tasks    [#######-------------] 4/12
+  @maudyfarasya | score=2380 rank=3375
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Maudy menjalankan: Read Manga
-[1]Maudy       |11:19:11 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Maudy       |11:11:31 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Maudy menjalankan: Get Gift
-[1]Maudy       |11:19:12 | 29-10-2026| gift: 0/5 belum diterima
+[1]Maudy       |11:11:32 | 30-10-2026| gift: 1/6 belum diterima
+[1]Maudy       |11:11:33 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Maudy menjalankan: Setup Profile
-[1]Maudy       |11:19:12 | 29-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
-[1]Maudy       |11:19:12 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Maudy       |11:11:35 | 30-10-2026| profile: bio="https://x.com/maudyfarasya" fav=kagura rewardAt=1791802234
+[1]Maudy       |11:11:35 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Maudy menjalankan: Bind Wallet
-[1]Maudy       |11:19:13 | 29-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
+[1]Maudy       |11:11:36 | 30-10-2026| wallet: sudah terikat 6Z9QAxJeLS... (solana)
 
 == RINGKASAN ==
-- Maudy: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Maudy: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
